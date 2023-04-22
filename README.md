@@ -1,5 +1,5 @@
 # cta-file-sharing
-a collaborative artware project by Media Art and Design students at the University of Chicago.
+A project for LA HACKS 2023 with Andrew Cohen, Anthony Khaiat, Jeremy Huang, Logan Ge
 
 # setup
 
